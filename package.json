@@ -1,0 +1,14 @@
+{
+    "name": "Sandbox",
+    "version": "1.0.0",
+    "description": "JS Sandbox.",
+    "scripts": {
+        "lite": "lite-server --port 10001",
+        "start": "npm run lite"
+    },
+    "author": "Michael Niv",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
