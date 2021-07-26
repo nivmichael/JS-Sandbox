@@ -1,4 +1,4 @@
 {
     "port": 10001,
-    "files": ["./src/**/*.{html,htm,css,js}"]
+    "files": ["./**/*.{html,htm,css,js}"]
 }
